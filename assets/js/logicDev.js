@@ -23,7 +23,7 @@ function startQuiz() {
     // un-hide questions section
 
     //start timer (high)
-you need to declare a var named timerId. You will also need to use setInterval and clockTick
+    //you need to declare a var named timerId. You will also need to use setInterval and clockTick
 
     //show starting time (high)
 
