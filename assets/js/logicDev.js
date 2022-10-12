@@ -144,7 +144,7 @@ function saveHighscore() {
         var newScore = {
             score: time,
             initials
-        }
+        };
 
         // save to localstorage
         highscores.push(newScore)
